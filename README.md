@@ -1,10 +1,6 @@
 # Algorithms
 
-----> This repository contains the implementation of algorithms discussed in "Design and Analysis of Algorithms",
-      course offered by Stanford University through Coursera
+Algorithms: Design and Analysis, Part 1
+Course offered on coursera.org taught by Prof. Tim Roughgarden.
 
-
-
-----> All programs are in python.
-
-
+Note:----> All programs are in python. :)
